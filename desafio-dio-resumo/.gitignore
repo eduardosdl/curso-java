@@ -1,0 +1,40 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de log
+*.log
+
+# Diretórios de pacotes BlueJ
+*.ctxt
+
+# Arquivos móveis
+.mtj.tmp/
+
+# Arquivos de pacote
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs de falhas de VM
+hs_err_pid*
+replay_pid*
+
+# Diretórios de IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+
+# Diretórios de build
+target/
+bin/
+build/
+out/
